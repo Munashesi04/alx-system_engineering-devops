@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1664942837,,"wq"
+|2,0,1664943657,,"wq"
 :WQ
 |2,0,1664942834,,"WQ"
 :Wq
@@ -64,40 +64,58 @@
 |3,0,36,0,1,0,1662843710,"}"
 
 # File marks:
-'0  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,48,3,20,1664942837,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
-'1  102  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
-|4,49,102,0,1664942043,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
-'2  1  1658  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
-|4,50,1,1658,1664941135,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
-'3  104  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
-|4,51,104,0,1664941135,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
-'4  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
-|4,52,1,0,1664831106,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
-'5  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
-|4,53,1,0,1664831106,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+'0  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,48,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+'1  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,49,3,20,1664942837,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+'2  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,50,3,20,1664942837,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+'3  102  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,51,102,0,1664942043,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+'4  1  1658  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,52,1,1658,1664941135,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+'5  104  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,53,104,0,1664941135,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 '6  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,54,1,0,1664831106,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 '7  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,55,1,0,1664831106,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
-'8  1  1658  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
-|4,56,1,1658,1664830698,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
-'9  104  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
-|4,57,104,0,1664830698,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+'8  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,56,1,0,1664831106,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+'9  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,57,1,0,1664831106,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 
 # Jumplist (newest first):
+-'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
 -'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
 |4,39,3,20,1664942837,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664942734,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
 -'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
 |4,39,1,0,1664942734,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
 -'  102  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,39,102,0,1664942043,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 -'  102  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,39,102,0,1664942043,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  102  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,102,0,1664942043,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  102  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,102,0,1664942043,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 -'  1  1658  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,39,1,1658,1664941922,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 -'  1  1658  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,39,1,1658,1664941922,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  1  1658  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,1,1658,1664941922,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  1  1658  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,1,1658,1664941922,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  104  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,104,0,1664941135,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  104  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,104,0,1664941135,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 -'  104  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,39,104,0,1664941135,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 -'  104  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
@@ -107,6 +125,14 @@
 -'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,39,1,0,1664941061,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 -'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1664941061,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1664941061,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1664831106,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1664831106,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,39,1,0,1664831106,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 -'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,39,1,0,1664831106,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
@@ -114,6 +140,14 @@
 |4,39,104,0,1664830698,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 -'  104  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,39,104,0,1664830698,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  104  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,104,0,1664830698,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  104  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,104,0,1664830698,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1664830661,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1664830661,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 -'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 |4,39,1,0,1664830661,"~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c"
 -'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
@@ -182,119 +216,87 @@
 |4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
 -'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
 |4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
+-'  43  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+|4,39,43,0,1664830646,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
 -'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
 |4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
 -'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
 |4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
 -'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
 |4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  1  0  ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-|4,39,1,0,1664830627,"~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
--'  19  0  ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-|4,39,19,0,1664830364,"~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-	*	1664942834	0
-	"	3	20
-	^	3	21
-	.	4	0
+	*	1664943654	0
+	"	2	6
+	^	2	7
+	.	2	7
 	+	4	0
+	+	3	16
+	+	2	7
 
 > ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
 	*	1664942034	0
