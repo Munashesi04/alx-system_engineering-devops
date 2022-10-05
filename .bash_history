@@ -866,3 +866,369 @@ clear
 cat 103-water_and_stir 
 clear
 exit
+ls
+cd root
+ls
+cd alx-low_level_programming/
+ls
+cd 0x00-hello_world/
+clear
+ls 
+betty
+git add .
+git commit -m '4puts'
+git push
+cat 4-puts.c 
+clear
+cat test.c
+cat 4-puts.c 
+vi 4-puts.c 
+git add .
+git commit -m 'hotfix'
+git push
+clear
+betty
+vi 4-puts.c 
+v 4-puts.c 
+vi 4-puts.c 
+betty 4-puts.c 
+vi 4-puts.c 
+betty 4-puts.c 
+vi 4-puts.c 
+betty 4-puts.c 
+vi 4-puts.c 
+clear
+betty 4-puts.c 
+vi 4-puts.c 
+betty 4-puts.c 
+git add .
+git commit -m 'fix'
+git push
+clear
+vi 5-printf.c
+chmod u+x 5-printf.c 
+ls
+cat 5-printf.c 
+betty 5-printf.c 
+git add .
+git commit -m 'printfsuccess'
+git push
+clear
+exit
+cd root 
+cd alx-low_level_programming/
+ls
+cd 0x05-pointers_arrays_strings/
+ls
+git add .
+git commit -m 'task2'
+git push
+clear
+cat main.h 
+clear
+vim 2-strlen.c
+chmod u+x 2-strlen.c 
+gcc 2-strlen.c 
+gcc -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-strlen.c -o 2-strlen
+git add .
+git commit -m 'task3'
+git push
+cat main.h 
+clear
+vim 3-puts.c
+chmod u+x 3-puts.c 
+git add .
+git commit -m 'task4'
+git push
+vim _putchar.c
+git add .
+git commit -m 'putchar'
+git push
+clear
+ls
+cat main.h 
+cat 0-reset_to_98.c 
+cat 1-swap.c 
+clear
+ls
+cat 2-strlen.c 
+clear
+vim 4-print_rev.c
+chmod u+x 4-print_rev.c 
+git add .
+git commit -m 'task5'
+git push
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+gcc gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+gcc 4-print_rev.c 
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+clear
+vim 5-rev_string.c
+chmod u+x 5-rev_string.c 
+git add .
+git commit -m 'task6'
+git push
+vim 6-puts2.c
+chmod u+x 6-puts2.c 
+git add .
+git commit -m 'task7'
+git push
+clear
+vim 7-puts_half.c
+chmod u+x 7-puts_half.c 
+git add .
+git commit -m 'task8'
+git push
+chmod u+x 7-puts_half.c 
+ls
+vim 8-print_array.c
+chmod u+x 8-print_array.c 
+git add /
+git add .
+git commit -m 'task9'
+git push
+clear
+vim 9-strcpy.c
+chmod u+x 9-strcpy.c 
+git add .
+git commit -m 'task10'
+git push
+clear
+vim 100-atoi.c
+chmod u+x 100-atoi.c 
+git add .
+git commit -m 'manda'
+git push
+betty 100-atoi.c 
+clear
+vim 101-keygen.c
+chmod u+x 101-keygen.c 
+git add .
+git commit -m 'mandb'
+git push
+cat 101-keygen.c 
+exit
+cd root
+ls
+cd alx-low_level_programming/
+ls
+mkdir 0x07-pointers_arrays_strings
+cd 0x07-pointers_arrays_strings/
+ls
+echo 'Even more pointers, arrays and strings' > README.md
+ls
+git add .
+git commit -m 'pas'
+git push
+clear
+ls
+vim main.h
+vim _putchar.c
+git add .
+git commit -m 'files'
+git push
+clear
+ls
+vim 0-memset.c
+chmod u+x 0-memset.c 
+git add .
+git commit -m 'task0'
+git push
+clear
+touch 1-memcpy.c
+touch 2-strchr.c
+touch 3-strspn.c
+touch 4-strpbrk.c
+touch 5-strstr.c
+touch 7-print_chessboard.c
+touch 8-print_diagsums.c
+git add .
+git commit -m 'files'
+git push
+clear
+ls
+chmod u+x 1-memcpy.c 2-strchr.c 
+ls
+chmod u+x 3-strspn.c 4-strpbrk.c  5-strstr.c  7-print_chessboard.c 8-print_diagsums.c 
+ls
+clear
+vim 1-memcpy.c 
+git add .
+git commit -m 'task1'
+git push
+clear
+vim 2-strchr.c 
+git add .
+git commit -m 'task2'
+git push
+clear
+vim 3-strspn.c 
+git add .
+git commit -m 'task3'
+git push
+clear
+vim 4-strpbrk.c 
+git add .
+git commit -m 'task4'
+git push
+clear
+vim 5-strstr.c 
+git add .
+git commit -m 'task5'
+git push
+clear
+vim 7-print_chessboard.c 
+git add .
+git commit -m 'task6'
+git push
+clear
+vim 8-print_diagsums.c 
+git add .
+git commit -m 'task7'
+git push
+clear
+touch 100-set_string.c
+touch 101-crackme_password
+ls
+chmod u+x 100-set_string.c 101-crackme_password 
+ls
+git add .
+git commit -m 'filesextra'
+git push
+clear
+vim 100-set_string.c 
+git add .
+git commit -m 'mandtask1'
+git push
+clear
+ls
+echo 'abc123' > 101-crackme_password 
+git add .
+git commit -m 'mandtsk2'
+git push
+exit
+cd root
+cd alx-low_level_programming/
+ls
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv/
+LS
+ls
+clear
+echo 'Argc_argv' > README.md
+ls
+vi main.h
+vi _putchar.c
+ls
+clear
+touch 0-whatsmyname.c 1-args.c 2-args.c 3-mul.c 4-add.c 100-change.c
+ks
+ls
+vi 0-whatsmyname.c 
+vi 1-args.c 
+vi 2-args.c 
+vi 3-mul.c 
+vi 4-add.c 
+vi 100-change.c 
+git add .
+git commit -m 'alltasks'
+git push
+vi 3-mul.c 
+vi 4-add.c 
+git add .
+git commit -m 'fix'
+git push
+cd ..
+clear
+ls
+cd 0x09-static_libraries/
+ls
+vi _putchar.c
+ls
+ar rc libmy.a
+ls
+cd ..
+echo 'ALLDIR' > README.md
+lx
+ls
+clear
+ls
+cd 0x02-functions_nested_loops/
+ls
+cp 3-islower.c  4-isalpha.c 6-abs.c ../0x09-static_libraries/
+cd ..
+cd 0x04-more_functions_nested_loops/
+clear
+ls
+cp 0-isupper.c 
+clear
+ls
+chmod u+x 0-isupper.c 1-isdigit.c  2-mul.c  3-print_numbers.c  4-print_most_numbers.c  5-more_numbers.c 6-print_line.c  7-print_diagonal.c  8-print_square.c  9-fizz_buzz.c 
+ls
+chmod u+x 100-prime_factor.c  101-print_number.c  10
+chmod u+x 100-prime_factor.c  101-print_number.c  10-print_triangle.c 
+ls
+clear
+ls
+cp 0-isupper.c  1-isdigit.c ../0x09-static_libraries/
+cd ..
+ls
+cd 0x05-pointers_arrays_strings/
+clear
+ls
+cp 100-atoi.c  2-strlen.c 3-puts.c  9-strcpy.c ../0x09-static_libraries/
+cd ..
+ls
+cd 0x06
+cd 0x06-pointers_arrays_strings/
+clear
+ls
+cp 0-strcat.c  1-strncat.c 2-strncpy.c  3-strcmp.c  ../0x09-static_libraries/
+cd ..
+cd 0x07-pointers_arrays_strings/
+clrst
+cleear
+clear
+ls
+cp 0-memset.c  1-memcpy.c  2-strchr.c  3-strspn.c  4-strpbrk.c 5-strstr.c  ../0x09-static_libraries/
+cd ..
+cd 0x09-static_libraries/
+ls
+clear
+ls
+gcc -c *.c
+ls
+ar cr libmy.a *.o
+ls
+clear
+ls
+ar -t libmy.a
+clear
+nm libmy.a 
+clear
+vi mai.c
+ls
+rm mai.c
+ls
+clear
+vi main.c
+ls
+cat main.h
+clear
+cat main.c
+clear
+git add .
+git commit -m 'alltasks'
+git push
+exit
+cd root
+cd alx-low_level_programming/
+cd 0x0B-malloc_free/
+ls
+vi 101-strtow.c 
+chmod u+x 101-strtow.c 
+betty 101-strtow.c 
+git add .
+git commit -m 'mandtasks'
+git push
+exit
