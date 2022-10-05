@@ -14,14 +14,14 @@
 ~MSle0~/**
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1665002508,,"wq"
+:WQ
+|2,0,1665002500,,"WQ"
 ::::::::wq
 |2,0,1665002310,,":::::::wq"
 :Wq
 |2,0,1665002301,,"Wq"
-:wq
-|2,0,1664945202,,"wq"
-:WQ
-|2,0,1664942834,,"WQ"
 :wq!
 |2,0,1664942043,,"wq!"
 :wa
@@ -66,28 +66,34 @@
 |3,0,36,0,1,0,1662843710,"}"
 
 # File marks:
-'0  4  33  ~/.git/COMMIT_EDITMSG
-|4,48,4,33,1665002310,"~/.git/COMMIT_EDITMSG"
-'1  2  17  ~/.git/COMMIT_EDITMSG
-|4,49,2,17,1664945202,"~/.git/COMMIT_EDITMSG"
-'2  2  17  ~/.git/COMMIT_EDITMSG
-|4,50,2,17,1664945202,"~/.git/COMMIT_EDITMSG"
-'3  1  0  ~/.git/COMMIT_EDITMSG
-|4,51,1,0,1664945084,"~/.git/COMMIT_EDITMSG"
-'4  1  0  ~/.git/COMMIT_EDITMSG
-|4,52,1,0,1664945084,"~/.git/COMMIT_EDITMSG"
-'5  1  0  ~/.git/COMMIT_EDITMSG
-|4,53,1,0,1664945084,"~/.git/COMMIT_EDITMSG"
-'6  1  0  ~/.git/COMMIT_EDITMSG
-|4,54,1,0,1664945084,"~/.git/COMMIT_EDITMSG"
-'7  2  28  ~/.git/COMMIT_EDITMSG
-|4,55,2,28,1664945061,"~/.git/COMMIT_EDITMSG"
-'8  4  8  ~/.git/COMMIT_EDITMSG
-|4,56,4,8,1664945061,"~/.git/COMMIT_EDITMSG"
-'9  2  28  ~/.git/COMMIT_EDITMSG
-|4,57,2,28,1664945061,"~/.git/COMMIT_EDITMSG"
+'0  5  0  ~/.git/COMMIT_EDITMSG
+|4,48,5,0,1665002508,"~/.git/COMMIT_EDITMSG"
+'1  2  166  ~/.git/COMMIT_EDITMSG
+|4,49,2,166,1665002310,"~/.git/COMMIT_EDITMSG"
+'2  4  33  ~/.git/COMMIT_EDITMSG
+|4,50,4,33,1665002310,"~/.git/COMMIT_EDITMSG"
+'3  2  17  ~/.git/COMMIT_EDITMSG
+|4,51,2,17,1664945202,"~/.git/COMMIT_EDITMSG"
+'4  2  17  ~/.git/COMMIT_EDITMSG
+|4,52,2,17,1664945202,"~/.git/COMMIT_EDITMSG"
+'5  2  17  ~/.git/COMMIT_EDITMSG
+|4,53,2,17,1664945202,"~/.git/COMMIT_EDITMSG"
+'6  2  17  ~/.git/COMMIT_EDITMSG
+|4,54,2,17,1664945202,"~/.git/COMMIT_EDITMSG"
+'7  1  0  ~/.git/COMMIT_EDITMSG
+|4,55,1,0,1664945084,"~/.git/COMMIT_EDITMSG"
+'8  1  0  ~/.git/COMMIT_EDITMSG
+|4,56,1,0,1664945084,"~/.git/COMMIT_EDITMSG"
+'9  1  0  ~/.git/COMMIT_EDITMSG
+|4,57,1,0,1664945084,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  5  0  ~/.git/COMMIT_EDITMSG
+|4,39,5,0,1665002508,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1665002393,"~/.git/COMMIT_EDITMSG"
+-'  2  166  ~/.git/COMMIT_EDITMSG
+|4,39,2,166,1665002310,"~/.git/COMMIT_EDITMSG"
 -'  4  33  ~/.git/COMMIT_EDITMSG
 |4,39,4,33,1665002310,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -138,6 +144,70 @@
 |4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
 -'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
 |4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  3  18  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,3,18,1664944945,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
 -'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
 |4,39,1,0,1664944906,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
 -'  1  0  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
@@ -218,90 +288,28 @@
 |4,39,2,6,1664944083,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
 -'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
 |4,39,2,6,1664944083,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664944083,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664944083,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664944083,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664944083,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664944083,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664944083,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664944083,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664944083,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  2  6  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,2,6,1664943657,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
--'  3  20  ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-|4,39,3,20,1664943612,"~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1665002308	0
-	"	4	33
-	^	4	34
-	.	4	33
+	*	1665002500	0
+	"	5	0
+	^	5	0
+	.	5	0
 	+	2	18
 	+	2	28
 	+	2	20
 	+	2	12
 	+	2	0
-	+	4	33
+	+	2	166
+	+	7	0
+	+	4	0
+	+	2	0
+	+	2	15
+	+	2	22
+	+	3	0
+	+	4	0
+	+	5	0
 
 > ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
 	*	1664944942	0
